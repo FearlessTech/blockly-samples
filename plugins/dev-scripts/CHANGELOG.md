@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.35](https://github.com/google/blockly-samples/compare/@blockly/dev-scripts@1.2.34...@blockly/dev-scripts@1.2.35) (2023-05-18)
+
+**Note:** Version bump only for package @blockly/dev-scripts
+
+
+
+
+
+## [1.2.34](https://github.com/google/blockly-samples/compare/@blockly/dev-scripts@1.2.33...@blockly/dev-scripts@1.2.34) (2023-05-11)
+
+
+### Bug Fixes
+
+* Clean the dist directory before every build. ([#1685](https://github.com/google/blockly-samples/issues/1685)) ([71b1544](https://github.com/google/blockly-samples/commit/71b1544e1810f375798ca339b87816d6921c8ce5))
+
+
+
+## [1.2.33](https://github.com/google/blockly-samples/compare/@blockly/dev-scripts@1.2.32...@blockly/dev-scripts@1.2.33) (2023-04-27)
+
+
+### Bug Fixes
+
+* Fix compatibility with Node 18 ([#1672](https://github.com/google/blockly-samples/issues/1672)) ([df1b943](https://github.com/google/blockly-samples/commit/df1b943e42ded5cd1dfc8d83c8388116c5607a31))
+
+
+
+## [1.2.32](https://github.com/google/blockly-samples/compare/@blockly/dev-scripts@1.2.31...@blockly/dev-scripts@1.2.32) (2023-03-23)
+
+
+### Bug Fixes
+
+* eliminate faulty postinstall script ([#1630](https://github.com/google/blockly-samples/issues/1630)) ([d5efc18](https://github.com/google/blockly-samples/commit/d5efc18193d7f142329d1127ea6c8a64d24aff0c))
+
+
+
 ## [1.2.31](https://github.com/google/blockly-samples/compare/@blockly/dev-scripts@1.2.30...@blockly/dev-scripts@1.2.31) (2023-03-02)
 
 **Note:** Version bump only for package @blockly/dev-scripts

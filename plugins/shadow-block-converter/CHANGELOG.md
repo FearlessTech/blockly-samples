@@ -3,6 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.16](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.15...@blockly/shadow-block-converter@2.0.16) (2023-05-18)
+
+**Note:** Version bump only for package @blockly/shadow-block-converter
+
+
+
+
+
+## [2.0.15](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.14...@blockly/shadow-block-converter@2.0.15) (2023-05-11)
+
+**Note:** Version bump only for package @blockly/shadow-block-converter
+
+
+
+
+
+## [2.0.14](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.13...@blockly/shadow-block-converter@2.0.14) (2023-05-04)
+
+**Note:** Version bump only for package @blockly/shadow-block-converter
+
+
+
+
+
+## [2.0.13](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.12...@blockly/shadow-block-converter@2.0.13) (2023-04-27)
+
+**Note:** Version bump only for package @blockly/shadow-block-converter
+
+
+
+
+
+## [2.0.12](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.11...@blockly/shadow-block-converter@2.0.12) (2023-03-23)
+
+
+### Bug Fixes
+
+* eliminate faulty postinstall script ([#1630](https://github.com/google/blockly-samples/issues/1630)) ([d5efc18](https://github.com/google/blockly-samples/commit/d5efc18193d7f142329d1127ea6c8a64d24aff0c))
+
+
+
 ## [2.0.11](https://github.com/google/blockly-samples/compare/@blockly/shadow-block-converter@2.0.10...@blockly/shadow-block-converter@2.0.11) (2023-03-09)
 
 **Note:** Version bump only for package @blockly/shadow-block-converter

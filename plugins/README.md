@@ -17,6 +17,8 @@ user-inputted pixel grids.
 picker field that uses HSV sliders.
 - [``@blockly/field-date``](field-date/): A date picker field that uses the
 Google Closure date picker.
+- [``@blockly/field-dependent-dropdown``](field-dependent-dropdown/): A dropdown
+field where the available options depend on the value of a parent field.
 - [``@blockly/field-grid-dropdown``](field-grid-dropdown/): A Blockly dropdown
 field with grid layout.
 - [``@blockly/field-slider``](field-slider/): A slider field.
@@ -29,7 +31,7 @@ replace the built-in mutator UI with a +/- based UI.
 blocks that add connections dynamically.
 - [``@blockly-block-shareable-procedures``](block-shareable-procedures): A group
 of blocks that replace the built-in procedures with ones that can be shared
-between workspaces. (private - in development)
+between workspaces.
 - [``@blockly/block-test``](block-test/): A group of Blockly test blocks.
 - [``@blockly/renderer-inline-row-separators``](renderer-inline-row-separators/):
 A renderer that allows putting inline value input connectors on separate rows,

@@ -3,6 +3,73 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.20](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.19...@blockly/plugin-cross-tab-copy-paste@2.0.20) (2023-05-25)
+
+
+### Bug Fixes
+
+* Fix typo in cross tab copy paste plugin. ([#1703](https://github.com/google/blockly-samples/issues/1703)) ([4fbf3cf](https://github.com/google/blockly-samples/commit/4fbf3cf8a14e1a70d1368bb17da5ed0784b2d1fc))
+
+
+
+## [2.0.19](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.18...@blockly/plugin-cross-tab-copy-paste@2.0.19) (2023-05-18)
+
+**Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste
+
+
+
+
+
+## [2.0.18](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.17...@blockly/plugin-cross-tab-copy-paste@2.0.18) (2023-05-11)
+
+**Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste
+
+
+
+
+
+## [2.0.17](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.16...@blockly/plugin-cross-tab-copy-paste@2.0.17) (2023-05-04)
+
+**Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste
+
+
+
+
+
+## [2.0.16](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.15...@blockly/plugin-cross-tab-copy-paste@2.0.16) (2023-04-27)
+
+**Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste
+
+
+
+
+
+## [2.0.15](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.14...@blockly/plugin-cross-tab-copy-paste@2.0.15) (2023-04-13)
+
+
+### Bug Fixes
+
+* replace Blockly.selected to Blockly.getSelected() ([#1661](https://github.com/google/blockly-samples/issues/1661)) ([38c4504](https://github.com/google/blockly-samples/commit/38c450406e1541cd1c9c3076ae77927316c0b4cd))
+
+
+
+## [2.0.14](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.13...@blockly/plugin-cross-tab-copy-paste@2.0.14) (2023-03-29)
+
+
+### Bug Fixes
+
+* Change from Blockly.selected to Blockly.getSelected ([#1641](https://github.com/google/blockly-samples/issues/1641)) ([2e49902](https://github.com/google/blockly-samples/commit/2e49902bf528576f05f1b1eec205778086d427b2))
+
+
+
+## [2.0.13](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.12...@blockly/plugin-cross-tab-copy-paste@2.0.13) (2023-03-23)
+
+**Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste
+
+
+
+
+
 ## [2.0.12](https://github.com/google/blockly-samples/compare/@blockly/plugin-cross-tab-copy-paste@2.0.11...@blockly/plugin-cross-tab-copy-paste@2.0.12) (2023-03-09)
 
 **Note:** Version bump only for package @blockly/plugin-cross-tab-copy-paste

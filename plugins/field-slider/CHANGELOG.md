@@ -3,6 +3,54 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.17](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.16...@blockly/field-slider@4.0.17) (2023-05-18)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
+## [4.0.16](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.15...@blockly/field-slider@4.0.16) (2023-05-11)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
+## [4.0.15](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.14...@blockly/field-slider@4.0.15) (2023-05-04)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
+## [4.0.14](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.13...@blockly/field-slider@4.0.14) (2023-04-27)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
+## [4.0.13](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.12...@blockly/field-slider@4.0.13) (2023-04-13)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
+## [4.0.12](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.11...@blockly/field-slider@4.0.12) (2023-03-23)
+
+**Note:** Version bump only for package @blockly/field-slider
+
+
+
+
+
 ## [4.0.11](https://github.com/google/blockly-samples/compare/@blockly/field-slider@4.0.10...@blockly/field-slider@4.0.11) (2023-03-09)
 
 **Note:** Version bump only for package @blockly/field-slider

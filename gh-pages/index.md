@@ -1,18 +1,16 @@
----
-layout: index
----
-
 # Plugins
 
 ## Blocks
 * [Blocks Plus Minus](plugins/block-plus-minus/test/index.html)
 * [Blocks Dynamic Connection](plugins/block-dynamic-connection/test/index.html)
+* [Blocks Shareable Procedures](plugins/block-shareable-procedures/test/index.html)
 
 ## Fields
 * [Field Bitmap](plugins/field-bitmap/test/index.html)
 * [Field HSV Colour](plugins/field-colour-hsv-sliders/test/index.html)
 * [Field Date](plugins/field-date/test/index.html)
 * [Field Slider](plugins/field-slider/test/index.html)
+* [Field Dependent Dropdown](plugins/field-dependent-dropdown/test/index.html)
 * [Field Grid Dropdown](plugins/field-grid-dropdown/test/index.html)
 
 
